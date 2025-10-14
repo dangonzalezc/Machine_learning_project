@@ -140,7 +140,7 @@ Este proyecto utiliza **datos simulados** con fines educativos. Para aplicacione
 
 ## 👨‍💻 Autor
 
-Proyecto desarrollado como parte del Bootcamp de IA - Taller 3
+Proyecto desarrollado por Daniel González con el apoyo del modelo Claude Sonnet 4.5 Thinking en Windsurf y Google Colab como parte del Bootcamp de Inteligencia Artificial del programa TALENTO TECH del Ministerio de Tecnologías de la Información y las Comunicaciones de Colombia
 
 ## 📝 Licencia
 
