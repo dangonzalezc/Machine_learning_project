@@ -80,8 +80,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 ## 📁 Archivos del Proyecto
 
 - `adenocarcinoma_ml_analysis.ipynb` - Cuaderno principal con todo el análisis
-- `crear_notebook_final.py` - Script para generar el notebook
-- `adenocarcinoma_ml_parte1.py` - Script auxiliar para generación de datos
 - `README.md` - Este archivo
 
 ## 📊 Métricas de Evaluación
