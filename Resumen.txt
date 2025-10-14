@@ -194,8 +194,7 @@ NIVEL:
 
 AUTOR:
 ------
-    Bootcamp IA - Taller 3
-    Tema: Machine Learning en Biomedicina
+Proyecto desarrollado por Daniel González con el apoyo del modelo Claude Sonnet 4.5 Thinking en Windsurf y Google Colab como parte del Bootcamp de Inteligencia Artificial del programa TALENTO TECH del Ministerio de Tecnologías de la Información y las Comunicaciones de Colombia
 
 FECHA:
 ------
