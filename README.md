@@ -132,9 +132,7 @@ Este proyecto utiliza **datos simulados** con fines educativos. Para aplicacione
 
 ## 📚 Referencias
 
-- Biomarcadores tumorales en adenocarcinoma
-- Algoritmos de Machine Learning para diagnóstico médico
-- Métricas de evaluación en clasificación médica
+- Pendientes
 
 ## 👨‍💻 Autor
 
