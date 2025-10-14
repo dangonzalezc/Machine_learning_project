@@ -157,14 +157,7 @@ ARCHIVOS DEL PROYECTO:
     
     RESUMEN_PROYECTO.txt
         > Este archivo
-    
-    [SCRIPTS]
-    crear_notebook_final.py
-        > Script generador del notebook
-    
-    adenocarcinoma_ml_parte1.py
-        > Script auxiliar de datos
-    
+       
     [DEPENDENCIAS]
     requirements.txt
         > Librerias necesarias
